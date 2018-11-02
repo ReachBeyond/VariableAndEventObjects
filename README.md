@@ -93,7 +93,7 @@ Objects are under the LGPL. (Hipple has said that he considers the stuff in
 the videos to be open-source. LGPL allows the code to be open source while
 still allowing gamedevs to use the project in a closed project.)
 
-However, the icons aren't my own. The icons folder has its own credits file.
-This file conforms with their license requirements. If you plan on using
-these icons in your project, you must make sure to stick with these
-requirements.
+However, the icons aren't my own; they come from [www.flaticon.com](www.flaticon.com).
+In every icons folder, there is a credits file. These credits files comply with
+flaticon's license. Keep this in mind if you plan on using these icons for your
+own projects.
