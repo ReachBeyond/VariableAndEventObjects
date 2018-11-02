@@ -82,8 +82,18 @@ around, make sure the tags are preserved!
 
 
 
-Closing
--------
+OTHER THINGS
+------------
 More documentation will come eventually.
 
 If you have a bug to report or a feature request, please open an issue!
+
+For the LICENSE, it applies to most things. Both Variable Objects and Event
+Objects are under the LGPL. (Hipple has said that he considers these open-
+source. LGPL allows the code to be open source while still allowing other
+developers to use the project.)
+
+However, the icons aren't my own. The icons folder has its own credits file.
+This file conforms with their license requirements. If you plan on using
+these icons in your project, you must make sure to stick with these
+requirements.
